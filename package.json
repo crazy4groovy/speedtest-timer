@@ -14,7 +14,7 @@
   "dependencies": {
     "dotenv": "^6.1.0",
     "google-spreadsheet-promise": "^0.3.0",
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^2.6.1",
     "speedtest-net": "^1.4.3"
   }
 }
